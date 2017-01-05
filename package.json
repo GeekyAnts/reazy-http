@@ -3,7 +3,20 @@
   "description": "An http request module (based on fetch API) for your Reazy application.",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeekyAnts/reazy-http.git"
+  },
+  "keywords": [
+    "reazy",
+    "reazy-http",
+    "react",
+    "react",
+    "native",
+    "framework"
+  ],
+  "author": "Kumar Sanket, Himanshu Satija, Sankhadeep Roy",
+  "license": "Apache-2.0",
   "engines": {
     "node": ">= 4"
   },
