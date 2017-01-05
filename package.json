@@ -1,7 +1,7 @@
 {
   "name": "reazy-http",
   "description": "An http request module (based on fetch API) for your Reazy application.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
